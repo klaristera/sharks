@@ -8,4 +8,4 @@ Mary Roach's book on military science, Grunt: The Curious Science of Humans at W
 May do data viz in Tableau and share to Tableau Public, or may do in Python.
 
 Update:
-https://public.tableau.com/profile/karissa2012#!/
+https://public.tableau.com/profile/klaristera/
